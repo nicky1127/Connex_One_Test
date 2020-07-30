@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Right Snapshot matchs 1`] = `
+<div
+  className="MuiPaper-root makeStyles-root-1 MuiPaper-elevation5 MuiPaper-rounded"
+>
+  <div
+    className="MuiBox-root MuiBox-root-3 makeStyles-box-2"
+  >
+    
+  </div>
+</div>
+`;

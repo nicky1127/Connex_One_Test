@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Snapshot matchs 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <h1
+    className="makeStyles-title-2"
+  >
+    Connex One - Full Stack Technical Test
+  </h1>
+  <div
+    className="makeStyles-info-3"
+  >
+    <h3>
+      Applicant : Nicky Lai
+    </h3>
+    <h3>
+      Date: 30/07/2020
+    </h3>
+  </div>
+</div>
+`;
